@@ -33,5 +33,25 @@
         <artifactId>spark-sql_2.11</artifactId>
         <version>2.3.0</version>
     </dependency>
+
+    <dependency>
+        <groupId>org.vegas-viz</groupId>
+        <artifactId>vegas_2.11</artifactId>
+        <version>0.3.11</version>
+    </dependency>
+
+    <dependency>
+        <groupId>org.vegas-viz</groupId>
+        <artifactId>vegas-spark_2.11</artifactId>
+        <version>0.3.11</version>
+    </dependency>
+
+    <dependency>
+        <groupId>io.github.carldata</groupId>
+        <artifactId>timeseries_2.12</artifactId>
+        <version>0.6.5</version>
+    </dependency>
+
+
 </dependencies>
 </project>
